@@ -1,0 +1,4 @@
+2019/05/02 13:49:27 - __main__ - INFO - 9 - mylogging - This is a log info
+2019/05/02 13:49:27 - __main__ - DEBUG - 10 - mylogging - Debugging
+2019/05/02 13:49:27 - __main__ - WARNING - 11 - mylogging - Warning exists
+2019/05/02 13:49:27 - __main__ - INFO - 12 - mylogging - Finish
